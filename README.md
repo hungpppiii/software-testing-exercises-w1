@@ -5,7 +5,7 @@
 
 ## Cài đặt
 1. Mở Intellij và mở thư mục dự án
-2. Build project with maven
+2. Load maven
 
 ## Cách chạy các file test
 1. mở file test theo đường dẫn:
