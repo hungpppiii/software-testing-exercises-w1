@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d10f7301-8016-49fd-9e5d-f1cb48fa0af9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/javacode/DummyTel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javacode/DummyTel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/javacode/DummyTelTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/javacode/DummyTelTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/javacode/DummyTel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/javacode/DummyTel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/javacode/DummyTelTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/javacode/DummyTelTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +45,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.DummyTelTest">
     <configuration name="DummyTelTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="software-testing-exercises-w1" />
       <extension name="coverage">
@@ -57,9 +61,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DummyTelTest.tinhTien5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="software-testing-exercises-w1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javacode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.javacode" />
+      <option name="MAIN_CLASS_NAME" value="com.javacode.DummyTelTest" />
+      <option name="METHOD_NAME" value="tinhTien5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.DummyTelTest" />
+        <item itemvalue="JUnit.DummyTelTest.tinhTien5" />
       </list>
     </recent_temporary>
   </component>
@@ -84,16 +105,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/javacode/DummyTelTest.java</url>
-          <line>4</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
