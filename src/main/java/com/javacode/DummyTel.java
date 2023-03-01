@@ -7,18 +7,12 @@ package com.javacode;
  */
 public class DummyTel {
 
-    private int startHour;
-    private int callDuration;
+
 
     /**
      * DummyTel class constructor
-     *
-     * @param startHour
-     * @param callDuration
      */
-    public DummyTel (int startHour, int callDuration) {
-        this.startHour = startHour;
-        this.callDuration = callDuration;
+    public DummyTel () {
     }
 
     /**
@@ -26,7 +20,7 @@ public class DummyTel {
      *
      * @return the cost of the call
      */
-    public double tinhTien() {
+    public double tinhTien(int startHour, int callDuration) {
         double totalMoney = 0;
         double discount = 1;
 //        cuộc gọi từ 18:00 đến trươc 08:00 được giảm 50% giá cước

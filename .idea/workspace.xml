@@ -8,8 +8,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/javacode/DummyTel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javacode/DummyTel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/javacode/DummyTelTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/javacode/DummyTelTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/javacode/DummyTel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/javacode/DummyTel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/javacode/DummyTelTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/javacode/DummyTelTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,17 +32,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/keydiaz/Downloads/software-testing-exercises-w1-hung-dev&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Workspace/java/software-testing-exercises-w1",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="JUnit.DummyTelTest">
     <configuration name="DummyTelTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="software-testing-exercises-w1" />
@@ -92,8 +91,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676476458034</updated>
+      <workItem from="1677690684133" duration="329000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
