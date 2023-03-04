@@ -16,11 +16,17 @@ public class DummyTel {
     }
 
     /**
-     * Tinh tien dien thoai
      *
+     * @param startHour
+     * @param callDuration
      * @return the cost of the call
      */
     public double tinhTien(int startHour, int callDuration) {
+
+        if (callDuration < 0 || startHour < 0 || startHour > 24) {
+            return -1;
+        }
+
         double totalMoney = 0;
         double discount = 1;
 //        cuộc gọi từ 18:00 đến trươc 08:00 được giảm 50% giá cước
@@ -39,6 +45,6 @@ public class DummyTel {
 //        tính thuế 5%
         totalMoney += totalMoney * 0.05;
 
-        return (double) Math.round(totalMoney * 100) / 100;
+        return (double) Math.round(totalMoney * 10) / 10;
     }
 }
